@@ -4,7 +4,7 @@ Its modification of crunch theme for zsh with symbols for git status.
 
 Checkout the screenshot below:
 
-[[https://raw.githubusercontent.com/krazedkrish/grunz-zsh-theme/dump/screenshot.png]]
+![Grunz screenshot](https://raw.githubusercontent.com/krazedkrish/grunz-zsh-theme/dump/screenshot.png)
 
 ## Installation
 
